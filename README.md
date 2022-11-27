@@ -12,4 +12,4 @@ Zig语言中文手册
 * 异步函数
 * 编译构建、测试。
 
-[Zig语言中文手册](https://sxwangzhiwen.github.io/zigcndoc/zigcndoc.html)是单一html文件
+[Zig语言中文手册](https://sxwangzhiwen.github.io/zigcndoc/zigcndoc.html)是单一html文件，网址为：https://sxwangzhiwen.github.io/zigcndoc/zigcndoc.html
